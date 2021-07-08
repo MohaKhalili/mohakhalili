@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-<--! https://www.fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/ -->
+<!-- https://www.fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/ -->
 
 [website]: https://mohakhalili.github.io/
 [instagram]: https://www.instagram.com/mohakhalili/
