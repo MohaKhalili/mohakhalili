@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning - How to learn :D
 - 👯 I’m looking to collaborate with - Robotics Scientist
 - 💬 Ask me about - Bio-inspired Methods to control legged robots
-- 🥅 2021 Goal - Control a quadrupeds with CPGs controller
+- 🥅 2022 Goal - Control a quadrupeds with CPGs controller
 - ⚡ Fun fact - I'm fairly good in researching
 
 <!-- ❔❔❔❔ means username in below README.md -->
