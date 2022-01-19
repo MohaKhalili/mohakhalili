@@ -12,12 +12,12 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-<!--[![Mohammad's github stats](https://github-readme-stats.vercel.app/api?username=mohakhalili&count_private=true&include_all_commits=true&theme=radical)](https://mohakhalili.github.io/) -->
+<!-- [![Mohammad's github stats](https://github-readme-stats.vercel.app/api?username=mohakhalili&count_private=true&include_all_commits=true&theme=radical)](https://mohakhalili.github.io/)  -->
 
 <p align="center">
 <a href="https://github.com/mohakhalili">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohakhalili&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohakhalili&layout=compact&langs_count=8&theme=nord"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohakhalili&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohakhalili&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
 
