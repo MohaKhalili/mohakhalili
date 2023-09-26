@@ -10,7 +10,7 @@
 -->
 
 
-## In short, Roboticist with passion to help humanity
+## In short, Developer, Engineer, and Roboticist with passion to help humanity
 - 🔭 I’m currently working on ... lots of things :D
 - 🌱 I’m currently learning - How to learn :D
 - 👯 I’m looking to collaborate with - Developers, Scientists, Managers, Sales Persons :)
