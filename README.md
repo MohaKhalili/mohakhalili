@@ -33,7 +33,7 @@
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="codeSTACKr | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="codeSTACKr | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 <!-- Optional if you have blogs -->
@@ -45,6 +45,6 @@
 <!-- https://www.fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/ -->
 
 [website]: https://mohakhalili.github.io/
-[instagram]: https://www.instagram.com/mohakhalili/
-[telegram]: https://t.me/Mhmkhalili
+<!-- [instagram]: https://www.instagram.com/mohakhalili/ -->
+[telegram]: https://t.me/RoboMoha
 [linkedin]: https://www.linkedin.com/in/mohammad-khalili/
