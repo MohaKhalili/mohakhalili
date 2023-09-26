@@ -11,12 +11,14 @@
 
 
 ## In short, Roboticist with passion to help humanity
-- 🔭 I’m currently working on - Central Pattern Generators
+- 🔭 I’m currently working on ... lots of things :D
 - 🌱 I’m currently learning - How to learn :D
-- 👯 I’m looking to collaborate with - Robotics Scientist
-- 💬 Ask me about - Bio-inspired Methods to control legged robots
-- 🥅 2022 Goal - Control a quadrupeds with CPGs controller
-- ⚡ Fun fact - I'm fairly good in researching
+- 👯 I’m looking to collaborate with - Developers, Scientists, Managers, Sales Persons :)
+- 💬 Ask me about - Programming, Control Systems, Embedded Systems, EVs, Battery Technologies, Robotics !
+- 🥅 2022 Goal - Control a quadrupeds with CPGs controller --> Done !
+- 🥅 2023 Goal - Explore new opportunities in Europe.
+- 🥅 2024 Goal - Deeper understanding of knowledge !
+- ⚡ Fun fact - I'm fairly good in research and development ;)
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
